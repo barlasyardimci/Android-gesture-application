@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+
+    <string-array name="Gestures">
+        <item>Turn on lights</item>
+        <item>Turn off lights</item>
+        <item>Turn on fan</item>
+        <item>Turn off fan</item>
+        <item>Increase fan speed</item>
+        <item>Decrease fan speed</item>
+        <item>Set thermostat temperature</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+
+</resources>
